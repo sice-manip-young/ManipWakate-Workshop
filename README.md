@@ -135,6 +135,7 @@ Colabのランタイム設定は、ノートブック内の指示に従ってく
 </div>
 
 ノートブックでは、RoboManipBaselinesのインストール、環境確認、模倣学習の基本的な実行手順、学習済みポリシーのrolloutと動画可視化を扱います。
+
 <img
   src="https://isri-aist.github.io/RoboManipBaselines-ProjectPage/media/images/logo.png"
   alt="RoboManipBaselines overview"
