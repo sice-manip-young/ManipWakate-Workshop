@@ -46,7 +46,7 @@ ROBOMECH 2026 チュートリアル / SIマニピュレーション若手の会
 [SIマニピュレーション若手の会](https://sites.google.com/view/sice-si-manipulation/Wakate) が主催するハンズオンセッションとして、ロボット学習、特に模倣学習の基本的な流れを、実装を通して体験できるように構成しています。
 
 題材には、産業技術総合研究所を中心に開発されているオープンソースソフトウェア
-[RoboManipBaselines](https://github.com/isri-aist/RoboManipBaselines)
+[**RoboManipBaselines**](https://github.com/isri-aist/RoboManipBaselines) [[Project Page](https://isri-aist.github.io/RoboManipBaselines-ProjectPage/)]
 を用います。参加者は、データ収集、モデル学習、学習済みモデルの確認、ロボット操作への接続までの一連の流れを、Google Colab上のノートブックで追体験します。
 
 ## Event at a Glance
@@ -110,13 +110,13 @@ ROBOMECH 2026 チュートリアル / SIマニピュレーション若手の会
 
 ## 事前準備
 
-参加前に以下を準備してください。
+参加前に以下を準備してください。特にGoogle Colabを利用する場合は、Googleアカウントの作成とColabの基本操作に慣れておくことを推奨します。一方で、WSLやDockerやLinux環境をお持ちの方は、ローカル環境での実行も可能です。その場合はGoogle Colabの利用は必須ではありません。
 
 | 必要なもの | 補足 |
 | --- | --- |
-| Googleアカウント | Google Colabの利用に必要です |
-| ブラウザ | Google Chrome等を推奨します |
-| 安定したネットワーク接続 | Colab上で環境構築と学習を実行します |
+| Googleアカウント | Google Colabを利用する場合に必要です。 |
+| ブラウザ | Google Colabを利用する場合に必要です。Google Chrome等での動作確認済み |
+| 安定したネットワーク接続 | 環境構築のため、ライブラリのインストールが必要です。会場の環境によっては速度が影響する可能性があります。 |
 | ノートPC | 現地参加の場合も各自のPCで作業します |
 
 Colabのランタイム設定は、ノートブック内の指示に従ってください。GPUランタイムを利用できる場合は、T4 GPU等の利用を推奨します。
@@ -130,19 +130,18 @@ Colabのランタイム設定は、ノートブック内の指示に従ってく
 | Notebook | Launch |
 | --- | --- |
 | [01_rmb_colab_tutorial.ipynb](notebook/01_rmb_colab_tutorial.ipynb) | [![Open in Colab](https://img.shields.io/badge/Open%20in-Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/sice-manip-young/ManipWakate-Workshop/blob/main/notebook/01_rmb_colab_tutorial.ipynb) |
+| [02_rmb_colab_rollout.ipynb](notebook/02_rmb_colab_rollout.ipynb) | [![Open in Colab](https://img.shields.io/badge/Open%20in-Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/sice-manip-young/ManipWakate-Workshop/blob/main/notebook/02_rmb_colab_rollout.ipynb) |
 
 </div>
 
-ノートブックでは、RoboManipBaselinesのインストール、環境確認、模倣学習の基本的な実行手順を扱います。
-
+ノートブックでは、RoboManipBaselinesのインストール、環境確認、模倣学習の基本的な実行手順、学習済みポリシーのrolloutと動画可視化を扱います。
 <img
-  src="https://www.aist.go.jp/Portals/0/resource_images/aist_j/press_release/pr2025/pr20250123_2/fig2.jpg"
+  src="https://isri-aist.github.io/RoboManipBaselines-ProjectPage/media/images/logo.png"
   alt="RoboManipBaselines overview"
-  width="88%">
-<br>
+  width="50%">
 <sub>
 画像出典:
-<a href="https://www.aist.go.jp/aist_j/press_release/pr2025/pr20250123_2/pr20250123_2.html">産業技術総合研究所プレスリリース関連資料</a>
+<a href="https://isri-aist.github.io/RoboManipBaselines-ProjectPage/">RoboManipBaselines Official Page</a>
 </sub>
 
 ## SIマニピュレーション若手の会
