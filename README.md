@@ -129,8 +129,8 @@ Colabのランタイム設定は、ノートブック内の指示に従ってく
 
 | Notebook | Launch |
 | --- | --- |
-| [01_rmb_colab_tutorial.ipynb](notebook/01_rmb_colab_tutorial.ipynb) | [![Open in Colab](https://img.shields.io/badge/Open%20in-Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/sice-manip-young/ManipWakate-Workshop/blob/main/notebook/01_rmb_colab_tutorial.ipynb) |
-| [02_rmb_colab_rollout.ipynb](notebook/02_rmb_colab_rollout.ipynb) | [![Open in Colab](https://img.shields.io/badge/Open%20in-Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/sice-manip-young/ManipWakate-Workshop/blob/main/notebook/02_rmb_colab_rollout.ipynb) |
+| [01_rmb_colab_tutorial.ipynb](notebook/01_rmb_colab_tutorial.ipynb) | [![Open in Colab](https://img.shields.io/badge/Open%20in-Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/sice-manip-young/ManipWakate-Workshop/blob/main/notebook/01_rmb_colab_tutorial.ipynb?hl=ja) |
+| [02_rmb_colab_rollout.ipynb](notebook/02_rmb_colab_rollout.ipynb) | [![Open in Colab](https://img.shields.io/badge/Open%20in-Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/sice-manip-young/ManipWakate-Workshop/blob/main/notebook/02_rmb_colab_rollout.ipynb?hl=ja) |
 
 </div>
 
