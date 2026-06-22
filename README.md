@@ -24,7 +24,7 @@ ROBOMECH 2026 チュートリアル / SIマニピュレーション若手の会
 </p>
 
 <p>
-  <a href="https://colab.research.google.com/github/sice-manip-young/ManipWakate-Workshop/blob/main/notebook/01_rmb_colab_tutorial.ipynb">
+  <a href="https://colab.research.google.com/github/sice-manip-young/ManipWakate-Workshop/blob/robomech2026/notebook/01_rmb_colab_tutorial.ipynb">
     <img alt="Open in Colab" src="https://img.shields.io/badge/Open%20in-Google%20Colab-F9AB00?style=for-the-badge&amp;logo=googlecolab&amp;logoColor=white">
   </a>
   <a href="https://robomech.org/2026/workshop-tutorial/#xdrchallenge">
@@ -69,7 +69,7 @@ ROBOMECH 2026 チュートリアル / SIマニピュレーション若手の会
 | 用途 | リンク |
 | --- | --- |
 | ハンズオン教材 | [notebook/01_rmb_colab_tutorial.ipynb](notebook/01_rmb_colab_tutorial.ipynb) |
-| Google Colabで開く | [Open in Google Colab](https://colab.research.google.com/github/sice-manip-young/ManipWakate-Workshop/blob/main/notebook/01_rmb_colab_tutorial.ipynb) |
+| Google Colabで開く | [Open in Google Colab](https://colab.research.google.com/github/sice-manip-young/ManipWakate-Workshop/blob/robomech2026/notebook/01_rmb_colab_tutorial.ipynb) |
 | ROBOMECH 2026 公式ページ | [チュートリアル・ワークショップ一覧](https://robomech.org/2026/workshop-tutorial/#xdrchallenge) |
 | SIマニピュレーション若手の会 | [若手の会ホームページ](https://sites.google.com/view/sice-si-manipulation/Wakate) |
 | RoboManipBaselines | [GitHub Repository](https://github.com/isri-aist/RoboManipBaselines) |
@@ -129,8 +129,8 @@ Colabのランタイム設定は、ノートブック内の指示に従ってく
 
 | Notebook | Launch |
 | --- | --- |
-| [01_rmb_colab_tutorial.ipynb](notebook/01_rmb_colab_tutorial.ipynb) | [![Open in Colab](https://img.shields.io/badge/Open%20in-Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/sice-manip-young/ManipWakate-Workshop/blob/main/notebook/01_rmb_colab_tutorial.ipynb?hl=ja) |
-| [02_rmb_colab_rollout.ipynb](notebook/02_rmb_colab_rollout.ipynb) | [![Open in Colab](https://img.shields.io/badge/Open%20in-Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/sice-manip-young/ManipWakate-Workshop/blob/main/notebook/02_rmb_colab_rollout.ipynb?hl=ja) |
+| [01_rmb_colab_tutorial.ipynb](notebook/01_rmb_colab_tutorial.ipynb) | [![Open in Colab](https://img.shields.io/badge/Open%20in-Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/sice-manip-young/ManipWakate-Workshop/blob/robomech2026/notebook/01_rmb_colab_tutorial.ipynb?hl=ja) |
+| [02_rmb_colab_rollout.ipynb](notebook/02_rmb_colab_rollout.ipynb) | [![Open in Colab](https://img.shields.io/badge/Open%20in-Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/sice-manip-young/ManipWakate-Workshop/blob/robomech2026/notebook/02_rmb_colab_rollout.ipynb?hl=ja) |
 
 </div>
 
