@@ -139,6 +139,7 @@ Colabのランタイム設定は、ノートブック内の指示に従ってく
   src="https://isri-aist.github.io/RoboManipBaselines-ProjectPage/media/images/logo.png"
   alt="RoboManipBaselines overview"
   width="50%">
+<br>
 <sub>
 画像出典:
 <a href="https://isri-aist.github.io/RoboManipBaselines-ProjectPage/">RoboManipBaselines Official Page</a>
